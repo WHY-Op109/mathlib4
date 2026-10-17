@@ -5528,6 +5528,7 @@ public import Mathlib.LinearAlgebra.Transvection.Generation
 public import Mathlib.LinearAlgebra.Unimodular
 public import Mathlib.LinearAlgebra.UnitaryGroup
 public import Mathlib.LinearAlgebra.Vandermonde
+public import Mathlib.LinearAlgebra.WeylAlgebra.Basic
 public import Mathlib.Logic.Embedding.Basic
 public import Mathlib.Logic.Embedding.Set
 public import Mathlib.Logic.Encodable.Basic
